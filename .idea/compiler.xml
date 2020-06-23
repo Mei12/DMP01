@@ -7,6 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="DMP01" />
+        <module name="elsticsearch" />
+        <module name="kafka" />
+        <module name="NewSpark" />
+        <module name="redis" />
+        <module name="spark-common" />
+        <module name="spark-core" />
+        <module name="spark-sql" />
+        <module name="spark-streaming" />
       </profile>
     </annotationProcessing>
   </component>
